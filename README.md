@@ -1,6 +1,6 @@
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/132921812-864570a1-e719-4951-89f9-053e4087687d.png" alt="random color generator"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
+<p align=center>Il s'agissait de créer un site dont on peut changer la couleur du fond.</p>
 
 <h2 align=center>📝 Description :</h2>
 
