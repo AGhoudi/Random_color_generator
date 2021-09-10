@@ -1,7 +1,4 @@
-![randomcolor](https://user-images.githubusercontent.com/27373255/132921812-864570a1-e719-4951-89f9-053e4087687d.png)
-
-
-<div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/132921812-864570a1-e719-4951-89f9-053e4087687d.png" alt="random color generator"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
 
